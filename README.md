@@ -2,7 +2,7 @@
 
 A Java Swing desktop application designed to handle standard hotel management tasks. I built this project during my 4th-semester vacation period to practice Object-Oriented Programming (OOP) and database integration in Java. 
 
-⚠️ **Note:** This project was created with the help of a YouTube tutorial and is currently **incomplete**. It served primarily as a testing and learning ground for my Java coursework!
+⚠️ **Note:** This project was created with the help of a YouTube tutorial. It served primarily as a testing and learning ground for my Java coursework!
 
 ## 🛠️ Tech Stack
 * **Language:** Java
